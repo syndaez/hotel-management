@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T17:55:02.588Z" agent="5.0 (Windows)" etag="cbkWAts4SUw-hx1MaRth" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-16T20:13:21.965Z" agent="5.0 (Windows)" etag="civDC9oXpeTVT_OtiIio" version="16.2.7" type="github">
   <diagram id="UAkRUMn5Mx9BO7yS3V_u" name="Page-1">
-    <mxGraphModel dx="2064" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,6 +94,9 @@
         </mxCell>
         <mxCell id="C2tkw6mGG905-lNRMkWZ-31" value="[If booking of guest is not started yet]" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C2tkw6mGG905-lNRMkWZ-32" value="SD &quot;Booking payment status&quot;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=131;height=37;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="49" width="1129" height="395" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
