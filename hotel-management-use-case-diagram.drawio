@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T19:56:11.383Z" agent="5.0 (Windows)" etag="niRSdmdIaYlFSvdy28Vd" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-16T19:59:38.924Z" agent="5.0 (Windows)" etag="0UKOz2Z9Djop17yAs28Y" version="16.2.7" type="github">
   <diagram id="ge1VyDqCcV0vglwd2rMA" name="Page-1">
-    <mxGraphModel dx="2933" dy="2107" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2883" dy="1807" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -170,7 +170,7 @@
           <mxGeometry x="-299" y="-350" width="1047" height="804" as="geometry" />
         </mxCell>
         <mxCell id="HqIrGXY7nDVLaXJjOqRK-75" value="Hotel management system" style="shape=umlFrame;whiteSpace=wrap;html=1;width=175;height=31;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-438" y="-417" width="1314" height="923" as="geometry" />
+          <mxGeometry x="-425" y="-417" width="1314" height="923" as="geometry" />
         </mxCell>
         <mxCell id="HqIrGXY7nDVLaXJjOqRK-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HqIrGXY7nDVLaXJjOqRK-1" target="HqIrGXY7nDVLaXJjOqRK-1">
           <mxGeometry relative="1" as="geometry" />
