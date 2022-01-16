@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T19:11:12.582Z" agent="5.0 (Windows)" etag="ulC0cJcPsLPDY2lkoWTW" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-16T20:23:34.006Z" agent="5.0 (Windows)" etag="KKvUREif53hAHR5wv864" version="16.2.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1214" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="275" y="160" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G1E72VWuhw1x5BruGPtw-16" value="Sequence Diagram" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="32" y="21" width="488" height="399" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
